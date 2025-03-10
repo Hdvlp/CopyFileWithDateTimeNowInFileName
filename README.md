@@ -1,0 +1,1 @@
+This is an example of giving a new name to a file with the allowed characters in date and time. Colon (:) is not accepted in the file name on Windows although colon is used as a delimiter between hours and minutes.
